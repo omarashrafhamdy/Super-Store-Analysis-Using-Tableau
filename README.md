@@ -43,3 +43,9 @@ The Top 10 Dashboard focuses on identifying top-performing countries and states 
 - Four filters: Year, Segment, Category, and Sub-Category. These filters affect all the visualizations in the dashboard.
 - Chart #1: Top 10 countries by sales.
 - Chart #2: Top 10 states by sales, based on the selection from Chart #1.
+
+## Project Demo
+
+
+https://github.com/omarashrafhamdy/Super-Store-Analysis-Using-Tableau/assets/58981064/06c3de14-d882-4fef-acc0-8a90d94cd02b
+
